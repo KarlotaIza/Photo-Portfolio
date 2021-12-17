@@ -1,0 +1,65 @@
+
+.album-each{
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+
+    margin: 10px;
+}
+
+.album-each:hover{
+    cursor: pointer;
+    
+}
+
+
+.each1{
+    background: url(best-photos/1-bnw/36.jpg) no-repeat;
+    background-size: cover;
+}
+
+.each2{
+    background: url(best-photos/6-montes-naturaleza/4.1.jpg) no-repeat;
+    background-size: cover;
+}
+.each3{
+    background: url(best-photos/5-animales/11.jpg) no-repeat;
+    background-size: cover;
+}
+
+.each4{
+    background: url(best-photos/4-retratos/2.jpg) no-repeat;
+    background-size: cover;
+}
+.each5{
+    background: url(best-photos/7-flores/3.jpg) no-repeat;
+    background-size: cover;
+}
+.each6{
+    background: url(best-photos/3-street-photo/6.jpeg) no-repeat;
+    background-size: cover;
+}
+.each7{
+    background: url(best-photos/2-foto-protesta/6.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.container-each{
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+
+
+h4 {
+    writing-mode: vertical-lr;
+    margin-left: 88%;
+    margin-top: 17px;
+    font-size: 27px;
+
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
